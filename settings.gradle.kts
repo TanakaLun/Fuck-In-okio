@@ -17,4 +17,3 @@ dependencyResolutionManagement {
 rootProject.name = "mitmer"
 
 include(":app")
-include(":libs:libxposed")
