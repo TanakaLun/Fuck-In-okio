@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">mitmer</string>
+    <string name="scope" translatable="false">com.aniplex.fategrandorder</string>
+</resources>
