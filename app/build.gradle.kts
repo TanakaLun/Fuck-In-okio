@@ -37,4 +37,5 @@ dependencies {
     implementation(libs.material)
     implementation(libs.androidx.constraintlayout)
     compileOnly(libs.libxposed.api)
+    implementation("com.squareup.okhttp3:okhttp:5.3.2")
 }
